@@ -1,0 +1,96 @@
+* {
+    box-sizing: border-box;
+    font-family: 'Raleway', sans-serif;
+}
+
+body {
+    background-color:lightgrey;
+}
+
+.hamburger {
+    display:block;
+    position:absolute;
+    top:10%;
+    right:10%;
+}
+
+#headshot {
+    height:auto;
+    width:30%;
+    position:absolute;
+    top:25%;
+    left:55%;
+}
+
+#quizAppPic {
+    height:200px;
+    width:auto;
+}
+
+header {
+    background-color:grey;
+    height:500px;
+    width:80%;
+    padding-right:30%;
+    padding-top:10%;
+}
+
+h1 {
+    margin:0px;
+    color:white;
+}
+
+h2 {
+    margin:0px;
+    color:white;
+}
+
+header h1 {
+    padding-left:10%;
+    padding-top:10%;
+}
+
+header h2 {
+    padding-left:10%;
+    padding-top:10%;
+}
+
+p {
+    margin:0px;
+    color:white;
+}
+
+#aboutMe {
+    background-color:lightgrey;
+    height:100px;
+    width:100%;
+    margin:0px;
+    color:black;
+    padding:10%;
+}
+
+#aboutMeText {
+    background-color:grey;
+    height:500px;
+    margin:0px;
+    padding:10%;
+}
+
+#projects {
+    background-color:dimgrey;
+    color:black;
+    padding:10%;
+}
+
+#projectsTitle {
+    background-color:darkgrey;
+    padding:10%;
+    height:50px;
+}
+
+footer {
+    padding:5%;
+    background-color:lightgrey;
+    color:black;
+    text-align:center;
+}
